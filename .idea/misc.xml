@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/activity_add_vehicle.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.2725817761851057" />
+        <entry key="app/src/main/res/layout/activity_authentication.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.27807971014492755" />
+        <entry key="app/src/main/res/layout/activity_loginpage.xml" value="0.27807971014492755" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23940014089213688" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.11322188449848024" />
+        <entry key="app/src/main/res/layout/activity_new_auth.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_parent.xml" value="0.12590579710144928" />
+        <entry key="app/src/main/res/layout/activity_reviewrowsview.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/activity_reviews.xml" value="0.3038949275362319" />
+        <entry key="app/src/main/res/layout/activity_show_reviews_and_add_reviews.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.27807971014492755" />
+        <entry key="app/src/main/res/layout/activity_student.xml" value="0.12590579710144928" />
+        <entry key="app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_vehicle_profile.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_vehicle_profile_for_add_vehicle.xml" value="0.22509057971014493" />
+        <entry key="app/src/main/res/layout/activity_vehicles_info.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/reviewrowview.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/reviewviewrow.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/vehiclerowview.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
